@@ -1,6 +1,6 @@
 # clj-dnssrv
 
-[![Build Status](https://travis-ci.org/liwp/clj-dnssrv.svg)](https://travis-ci.org/liwp/clj-dnssrv)
+[![](https://clojars.org/org.clojars.maxgfaraday/clj-dnssrv/latest-version.svg)](https://github.com/maxgfaraday/clj-dnssrv)
 
 A Clojure library for looking up DNS SRV records.
 
@@ -46,7 +46,7 @@ See the `resolver` docstring for more details on the configuration options.
 
 ## License
 
-Copyright © 2014 Lauri Pesonen
+Copyright © The 6th Column Project
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
